@@ -1,0 +1,123 @@
+*{
+	background-color:black;
+	font-family:Tahoma;
+	text-align:center;
+	list-style:none;
+	color:white;
+	
+}
+.container {
+ position:relative;
+  font-family: Tahoma;
+  color:white;
+  font-size:140%;
+}
+
+.HEAD_FIXED{
+	position:fixed;
+}
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  
+  
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: pink;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.top-right {
+   position: absolute;
+   top: 240px;
+   width:52%;
+   right: 50px;
+   padding:15px;
+}
+
+ 
+.skill {
+  position: absolute;
+  top: 495px;
+  right:50px;
+  
+  width:50%;
+  padding:15px;
+  padding-right:46px;
+  }
+  .program{
+  position: absolute;
+  top: 735px;
+  right:50px;
+  
+  width:50%;
+  padding:15px;
+  padding-right:46px;
+  }
+  .centered {
+  position: absolute;
+  top: 1620px;
+  right:50px;
+  
+  width:50%;
+  padding:15px;
+  padding-right:46px;
+  }
+.business {
+  position: absolute;
+  top: 1843px;
+  right:50px;
+  
+  width:50%;
+  padding:15px;
+  padding-right:46px;
+  }
+   .fact {
+  position: absolute;
+  top: 2110px;
+  right:50px;
+  padding-left: 8px;
+  color:white;
+  width:50%;
+  padding-right: 50px;
+}
+img{
+width:100%;
+height:auto;
+}
+h1{
+
+padding:10px;
+color:Pink;
+
+}
+h4{
+	border:white;
+	color:pink;
+}
+.FOOT{
+	padding:10px;
+	color:WHITE;
+	background-color:Black;
+	text-align:center;
+	margin:0px;
+	
+}
